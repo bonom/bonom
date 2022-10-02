@@ -7,7 +7,7 @@ I'm Andrea, this is a summary of me:
   <img align="center" alt="PyTorch" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png" width="30px"/> 
   </a> 
 - :soccer: I'm interested in soccer and F1
-- :mailbox: How to reach me: <a href="www.linkedin.com/in/andreabonomi984">
+- :mailbox: How to reach me: <a href="https://www.linkedin.com/in/andreabonomi984">
   <img align="center" alt="Linkedin" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png" />
 </a>
 
