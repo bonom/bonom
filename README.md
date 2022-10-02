@@ -2,8 +2,8 @@
 
 I'm Andrea, this is a summary of me: 
 - :mortar_board: I'm currently enrolled in M.Sc. Artificial Intelligence Systems at University of Trento
-- :telescope: I’m currently involved in a research project on [AI Economist](https://www.salesforceairesearch.com/projects/the-ai-economist)
-- :seedling: I’m currently learning <a href="https://www.pytorch.com/" target="_blank" rel="noreferrer"> 
+- :telescope: I'm involved in a research project on [AI Economist](https://www.salesforceairesearch.com/projects/the-ai-economist)
+- :seedling: I'm learning <a href="https://www.pytorch.com/" target="_blank" rel="noreferrer"> 
   <img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png" width="20px"/> 
   </a> 
 - :soccer: I'm interested in soccer and F1
