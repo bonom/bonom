@@ -14,23 +14,11 @@ I'm Andrea, this is a summary of me:
 </a>
 
 - :computer: Programming Languages: 
-    - Good level <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> 
-  <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-256.png" width="30px"/> 
-  </a> <a href="https://www.python.com/" target="_blank" rel="noreferrer"> 
-  <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" width="30px"/> 
-  </a> 
+    - Good level <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-256.png" width="30px"/> </a> <a href="https://www.python.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" width="30px"/> </a> 
     
-    - Basic/Medium level: <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="30px"/> 
-  </a> <a href="https://learn.microsoft.com/en-US/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="30px"/> 
-  </a> 
+    - Basic/Medium level: <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">  <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="30px"/> </a> <a href="https://learn.microsoft.com/en-US/dotnet/csharp/" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="30px"/> </a> 
     
-    - Non-Programming Languages: <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/186/186320.png" width="30px"/> 
-  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/186/186319.png" width="30px"/> 
-  </a> 
+    - Non-Programming Languages: <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/186/186320.png" width="30px"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/186/186319.png" width="30px"/> </a> 
 
   
 
