@@ -18,7 +18,7 @@ I'm Andrea, this is a summary of me:
     - Non-Programming Languages: <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/186/186320.png" width="30px"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/186/186319.png" width="30px"/> </a> 
 
 - :page_facing_up: Publications: 
-  1. (2022) - [Quantum annealing learning search implementations](https://arxiv.org/pdf/2212.11132)
-  2. (2023) - [Evolutionary F1 Race Strategy (LINK will be available)]()
+  1. (2023) - [Evolutionary F1 Race Strategy](https://doi.org/10.1145/3583133.3596349)
+  2. (2022) - [Quantum annealing learning search implementations](https://arxiv.org/pdf/2212.11132)
 
 - :globe_with_meridians: Website made by me: [Hotel Edera](https://www.hotel-edera.it/)
