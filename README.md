@@ -3,10 +3,10 @@
 I'm Andrea, here you can find some infos about me and some of my projects and publications.
 
 ## :mortar_board: Infos
-I'm currently enrolled in M.Sc. Artificial Intelligence Systems at University of Trento (Graduation expected in 2023). 
+I'm currently an AI Engineer at IBM. I have graduated in M.Sc. Artificial Intelligence Systems at University of Trento. 
 > I love to learn new things and I'm always looking for new challenges. 
 
-:mag_right: I'm interested in Machine Learning, Deep Learning and Genetic Programming. I like Formula 1 and football.
+:mag_right: I'm interested in Reinforcement Learning and Strong AI. I like Formula 1 and football.
 
 ## :mailbox: Socials
 You can reach me on  <a href="https://www.linkedin.com/in/andreabonomi984">
